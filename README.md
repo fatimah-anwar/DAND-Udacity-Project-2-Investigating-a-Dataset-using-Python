@@ -13,7 +13,7 @@ In this project, I go through the data analysis process to investigate a dataset
 - What runtime is associated with movies that have high revenues?
 - What is the best release (month / week / day of week) that guarantees high movie revenues?
 
-## Findings
+## Findings:
 
 In the process of producing and releasing a new movie, production companies must take into consideration four main factors:
 
