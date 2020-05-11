@@ -1,4 +1,5 @@
-# Udacity Data Analyst Nanodegree Project: Investigating a Dataset using Python (Investigate TMDb Movie Data)
+# Udacity Data Analyst Nanodegree Project: 
+# Investigating a Dataset using Python (Investigate TMDb Movie Data)
 
 In this project, I go through the data analysis process to investigate a dataset and communicate my findings about it using Python libraries NumPy, pandas, and Matplotlib. The analyzed dataset is TMDb Movie Data which contains information about 10,000 movies collected from The Movie Database (TMDb).
 
