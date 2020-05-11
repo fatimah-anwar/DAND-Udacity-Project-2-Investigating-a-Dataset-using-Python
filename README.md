@@ -6,7 +6,7 @@ In this project, I go through the data analysis process to investigate a dataset
 ## Files:
 - tmdb-movies.csv
 
-## While investigating and analyzing this dataset, I will be answering the following questions:
+## Questions to Answer:
 
 - How do the number of movies in each genre change over time?
 - Is there a relationship between user average votes and movies revenues?
